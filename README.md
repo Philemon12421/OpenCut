@@ -38,7 +38,7 @@ bash <(curl -fsSL https://moonrepo.dev/install/proto.sh)
 From the repo root:
 
 ```sh
-proto use    # installs the tools pinned in .prototools
+proto use    # install the tools pinned in .prototools
 ```
 
 ```sh
